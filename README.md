@@ -2,7 +2,7 @@
 Winner Solution for HackerEarth Predict the Criminal challenge
 
 ## About
-This solution is after the matric change from Precision to Mathews Correlation Coefficient.
+This solution is after the metric change from Precision to Mathews Correlation Coefficient.
 For Starter and Precision solution refer to.
 
 https://github.com/lucky630/HE_CRIMINAL_CL
